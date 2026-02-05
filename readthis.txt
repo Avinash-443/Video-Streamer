@@ -1,1 +1,5 @@
-reuse.py is the final program. :)
+Create a Folder called videoFiles and have three videos with the name
+
+videofolder/Natural_144p.mp4
+videofolder/Natural_720p_.mp4
+videofolder/Natural_1080p_original.mp4
