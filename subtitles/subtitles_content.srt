@@ -1,0 +1,23 @@
+1
+00:00:01,000 --> 00:00:04,000
+This is a platform to run the video streaming seamlessly.
+
+2
+00:00:05,000 --> 00:00:08,000
+You are seeing a Edited video.
+
+3
+00:00:09,000 --> 00:00:13,000
+Video can be switched to low, medium or high quality.
+
+4
+00:00:14,000 --> 00:00:17,000
+Let's get started with the demo!
+
+5
+00:00:18,000 --> 00:00:22,000
+It enables video to run without buffers.
+
+6
+00:00:23,000 --> 00:00:27,000
+Pass video before running.

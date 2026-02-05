@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Ignore video folder completely
+videofolder/
+
+# Ignore video files anywhere
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.webm
