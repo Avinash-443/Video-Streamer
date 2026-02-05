@@ -22,3 +22,8 @@ videofolder/
 *.avi
 *.mov
 *.webm
+
+#ignore files
+main.py
+server.py
+app.py
